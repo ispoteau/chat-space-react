@@ -1,0 +1,48 @@
+Features List
+------------------
+Homepage
+  - 
+Login
+  - username
+  - password
+  - forget password
+  - sign up
+
+Admin
+  - ban
+  - permaban
+  - kick
+  - get in any Rooms
+  - permissions
+
+Dashboard
+  - notifications
+    - likes
+    - views
+    - highfives
+  - profile
+    - nicknames
+    - owned rooms
+    - username
+    - password
+    - photo
+      - small album - 10 pix
+      - premium view vids for token
+    - info
+      - fav peeps
+      - fav rooms 
+    - gifts
+    - tokens
+  - buy
+    - tokens
+    - remove soft bans
+Rooms
+  - join
+  - leave
+  - create new: with tokens - initially enough tokens are given to create 3 rooms and get 3 gifts
+  - main chat
+  - priv chat
+  - emojis
+  - 
+--------------------------------------------------
+
