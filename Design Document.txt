@@ -1,4 +1,4 @@
-Features List
+Features List - React/Redux/Websockets/AWS/ --Pokedex app
 ------------------
 Homepage
   - 
