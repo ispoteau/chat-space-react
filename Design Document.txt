@@ -45,4 +45,6 @@ Rooms
   - emojis
   - 
 --------------------------------------------------
+start with room cards
 
+not limited to owned
